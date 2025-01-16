@@ -1,9 +1,11 @@
-# Archive.md Quick Access Extension
+<p align="center">
+    <img src="icons/folders.png" alt="icon" width=128>
+</p>
 
 A Chrome extension that adds a context menu item to quickly open any page in [Archive.Today](https://archive.today/). It also automatically removes URL parameters for specific news sites.
 
 ## Features
-- Right-click context menu item to open current page or links in archive.md
+- Right-click context menu item to open current page or links in archive.today
 - Automatic URL parameter trimming for selected news sites
 - Works on any webpage
 - Light-weight and simple
